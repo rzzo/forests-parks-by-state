@@ -1,0 +1,529 @@
+[
+  {
+    "location": "Alabama",
+    "national_forests": [
+      "Conecuh National Forest",
+      "Talladega National Forest",
+      "Tuskegee National Forest",
+      "William B. Bankhead National Forest"
+    ],
+    "national_parks": [],
+    "state_parks": [
+      "Choccolocco State Forest",
+      "Hauss State Forest",
+      "Geneva State Forest",
+      "Little River State Forest",
+      "Macon State Forest",
+      "Weogufka State Forest"
+    ]
+  },
+  {
+    "location": "Alaska",
+    "national_forests": ["Chugach National Forest", "Tongass National Forest"],
+    "national_parks": [
+      "Denali National Park",
+      "Gates of the Arctic National Park",
+      "Glacier Bay National Park",
+      "Katmai National Park",
+      "Kenai Fjords National Park",
+      "Kobuk Valley National Park",
+      "Lake Clark National Park",
+      "Wrangell-St. Elias National Park"
+    ],
+    "state_parks": [
+      "Haines State Forest",
+      "Southeast State Forest",
+      "Tanana Valley State Forest"
+    ]
+  },
+  {
+    "location": "Arizona",
+    "national_forests": [
+      "Apache-Sitgreaves National Forest",
+      "Coconino National Forest",
+      "Coronado National Forest",
+      "Kaibab National Forest",
+      "Prescott National Forest",
+      "Tonto National Forest"
+    ],
+    "national_parks": [
+      "Grand Canyon National Park",
+      "Petrified Forest National Park",
+      "Saguaro National Park"
+    ],
+    "state_parks": []
+  },
+  {
+    "location": "Arkansas",
+    "national_forests": [
+      "Ouachita National Forest",
+      "Ozark-St. Francis National Forest"
+    ],
+    "national_parks": ["Hot Springs National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "California",
+    "national_forests": [
+      "Angeles National Forest",
+      "Cleveland National Forest",
+      "Eldorado National Forest",
+      "Inyo National Forest",
+      "Klamath National Forest",
+      "Lake Tahoe Basin Management Area",
+      "Lassen National Forest",
+      "Los Padres National Forest",
+      "Mendocino National Forest",
+      "Modoc National Forest",
+      "Plumas National Forest",
+      "San Bernardino National Forest",
+      "Sequoia National Forest",
+      "Shasta-Trinity National Forest",
+      "Sierra National Forest",
+      "Six Rivers National Forest",
+      "Stanislaus National Forest",
+      "Tahoe National Forest"
+    ],
+    "national_parks": [
+      "Channel Islands National Park",
+      "Joshua Tree National Park",
+      "Kings Canyon National Park",
+      "Lassen Volcanic Park",
+      "Pinnacles National Park",
+      "Redwood National Park",
+      "Sequoia National Park",
+      "Yosemite National Park",
+      "Death Valley National Park"
+    ],
+    "state_parks": [
+      "Boggs Mountain Demonstration State Forest",
+      "Ellen Pickett State Forest",
+      "Jackson Demonstration State Forest",
+      "Las Posadas State Forest",
+      "LaTour Demonstration State Forest",
+      "Mountain Home Demonstration State Forest",
+      "Mount Zion Demonstration State Forest",
+      "Soquel Demonstration State Forest"
+    ]
+  },
+  {
+    "location": "Colorado",
+    "national_forests": [
+      "Arapaho National Forest",
+      "Grand Mesa National Forest",
+      "Gunnison National Forest",
+      "Pike National Forest",
+      "Rio Grande National Forest",
+      "Roosevelt National Forest",
+      "Medicine Bow-Routt National Forest",
+      "San Isabel National Forest",
+      "San Juan National Forest",
+      "Uncompahgre National Forest",
+      "White River National Forest"
+    ],
+    "national_parks": [
+      "Black Canyon of the Gunnison National Park",
+      "Great Sand Dunes National Park",
+      "Mesa Verde National Park",
+      "Rocky Mountain National Park"
+    ],
+    "state_parks": []
+  },
+  {
+    "location": "Florida",
+    "national_forests": [
+      "Apalachicola National Forest",
+      "Ocala National Forest",
+      "Osceola National Forest"
+    ],
+    "national_parks": [
+      "Biscayne National Park",
+      "Dry Tortugas National Park",
+      "Everglades National Park"
+    ],
+    "state_parks": []
+  },
+  {
+    "location": "Georgia",
+    "national_forests": ["Chattahoochee-Oconee National Forest"],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "Hawaii",
+    "national_forests": [],
+    "national_parks": [
+      "Haleakala National Park",
+      "Hawaii Volcanoes National Park"
+    ],
+    "state_parks": []
+  },
+  {
+    "location": "Idaho",
+    "national_forests": [
+      "Boise National Forest",
+      "Caribou-Targhee National Forest",
+      "Clearwater National Forest",
+      "Idaho Panhandle National Forests: Coeur d'Alene, Kaniksu, and St. Joe National Forests",
+      "Nez Perce National Forest",
+      "Payette National Forest",
+      "Salmon-Challis National Forest",
+      "Sawtooth National Forest",
+      "Uinta-Wasatch-Cache National Forest"
+    ],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "Illinois",
+    "national_forests": ["Shawnee National Forest"],
+    "national_parks": [],
+    "state_parks": [
+      "Big River State Forest",
+      "Hidden Springs State Forest",
+      "Lowden-Miller State Forest",
+      "Sand Ridge State Forest",
+      "Trail of Tears State Forest"
+    ]
+  },
+  {
+    "location": "Indiana",
+    "national_forests": ["Hoosier National Forest"],
+    "national_parks": [],
+    "state_parks": [
+      "Clark State Forest",
+      "Deam Lake State Recreation Area",
+      "Ferdinand State Forest",
+      "Frances Slocum State Forest",
+      "Greene-Sullivan State Forest",
+      "Harrison-Crawford State Forest",
+      "Jackson-Washington State Forest",
+      "Martin State Forest",
+      "Morgan-Monroe State Forest",
+      "Owen-Putnam State Forest",
+      "Pike State Forest",
+      "Salamonie River State Forest",
+      "Selmier State Forest",
+      "Spencer County State Forest",
+      "Starve Hollow State Recreation Area",
+      "Yellowwood State Forest"
+    ]
+  },
+  {
+    "location": "Kentucky",
+    "national_forests": [
+      "Daniel Boone National Forest",
+      "George Washington and Jefferson National Forests",
+      "Land Between the Lakes National Recreation Area"
+    ],
+    "national_parks": ["Mammoth Cave Park"],
+    "state_parks": [
+      "Dewey Lake State Forest",
+      "Kentenia State Forest",
+      "Kentucky Ridge State Forest",
+      "Knobs State Forest",
+      "Olympia State Forest",
+      "Pennyrile State Forest",
+      "Tygarts State Forest"
+    ]
+  },
+  {
+    "location": "Louisiana",
+    "national_forests": ["Kisatchie National Forest"],
+    "national_parks": [],
+    "state_parks": ["Alexander State Forest"]
+  },
+  {
+    "location": "Maine",
+    "national_forests": ["White Mountain National Forest"],
+    "national_parks": ["Acadia National Park"],
+    "state_parks": ["Durham State Forest"]
+  },
+  {
+    "location": "Michigan",
+    "national_forests": [
+      "Hiawatha National Forest",
+      "Huron-Manistee National Forest",
+      "Ottawa National Forest"
+    ],
+    "national_parks": ["Isle Royale National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Minnesota",
+    "national_forests": [
+      "Chippewa National Forest ",
+      "Superior National Forest"
+    ],
+    "national_parks": ["Voyageurs National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Mississippi",
+    "national_forests": [
+      "Bienville National Forest",
+      "Delta National Forest",
+      "De Soto National Forest",
+      "Holly Springs National Forest",
+      "Homochitto National Forest",
+      "Tombigbee National Forest"
+    ],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "Missouri",
+    "national_forests": ["Mark Twain National Forest"],
+    "national_parks": ["Gateway Arch National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Montana",
+    "national_forests": [
+      "Beaverhead-Deerlodge National Forest",
+      "Bitterroot National Forest",
+      "Custer National Forest",
+      "Flathead National Forest",
+      "Gallatin National Forest",
+      "Helena National Forest",
+      "Kootenai National Forest",
+      "Lewis and Clark National Forest",
+      "Lolo National Forest"
+    ],
+    "national_parks": ["Glacier National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Nebraska",
+    "national_forests": [
+      "Nebraska National Forest",
+      "Samuel R. McKelvie National Forest"
+    ],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "Nevada",
+    "national_forests": ["Humboldt-Toiyabe National Forest"],
+    "national_parks": [
+      "Great Basin National Park",
+      "Death Valley National Park"
+    ],
+    "state_parks": []
+  },
+  {
+    "location": "New Hampshire",
+    "national_forests": ["White Mountain National Forest"],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "New Mexico",
+    "national_forests": [
+      "Carson National Forest",
+      "Cibola National Forest",
+      "Gila National Forest",
+      "Lincoln National Forest",
+      "Santa Fe National Forest"
+    ],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "New Mexico",
+    "national_forests": [],
+    "national_parks": ["Carlsbad Caverns National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "New York",
+    "national_forests": ["Finger Lakes National Forest"],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "North Carolina",
+    "national_forests": [
+      "Cherokee National Forest",
+      "Croatan National Forest",
+      "Nantahala National Forest",
+      "Pisgah National Forest",
+      "Uwharrie National Forest"
+    ],
+    "national_parks": ["Great Smoky Mountains National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "North Dakota",
+    "national_forests": [],
+    "national_parks": ["Theodore Roosevelt National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Ohio",
+    "national_forests": ["Wayne National Forest"],
+    "national_parks": ["Cuyahoga Valley National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Oklahoma",
+    "national_forests": ["Ouachita National Forest"],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "Oregon",
+    "national_forests": [
+      "Deschutes National Forest",
+      "Fremont-Winema National Forest",
+      "Klamath National Forest",
+      "Malheur National Forest",
+      "Mount Hood National Forest",
+      "Ochoco National Forest",
+      "Rogue River-Siskiyou National Forest",
+      "Siuslaw National Forest",
+      "Umatilla National Forest",
+      "Umpqua National Forest",
+      "Wallowa-Whitman National Forest",
+      "Willamette National Forest"
+    ],
+    "national_parks": ["Crater Lake National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Pennsylvania",
+    "national_forests": ["Allegheny National Forest"],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "Puerto Rico",
+    "national_forests": ["El Yunque National Forest"],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "South Carolina",
+    "national_forests": [
+      "Francis Marion National Forest",
+      "Sumter National Forest"
+    ],
+    "national_parks": ["Congaree National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "South Dakota",
+    "national_forests": ["Black Hills National Forest"],
+    "national_parks": ["Badlands National Park", "Wind Cave National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Tennessee",
+    "national_forests": ["Cherokee National Forest"],
+    "national_parks": ["Great Smoky Mountains National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Texas",
+    "national_forests": [
+      "Angelina National Forest",
+      "Davy Crockett National Forest",
+      "Sabine National Forest",
+      "Sam Houston National Forest"
+    ],
+    "national_parks": [
+      "Big Bend National Park",
+      "Guadalupe Mountains National Park"
+    ],
+    "state_parks": []
+  },
+  {
+    "location": "Utah",
+    "national_forests": [
+      "Ashley National Forest",
+      "Dixie National Forest",
+      "Fishlake National Forest",
+      "Manti-LaSal National Forest",
+      "Uinta-Wasatch-Cache National Forest"
+    ],
+    "national_parks": [
+      "Arches National Park",
+      "Bryce Canyon National Park",
+      "Canyonlands National Park",
+      "Capitol Reef National Park",
+      "Zion National Park"
+    ],
+    "state_parks": []
+  },
+  {
+    "location": "Vermont",
+    "national_forests": ["Green Mountain National Forest"],
+    "national_parks": ["Shenandoah National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Virginia",
+    "national_forests": ["George Washington and Jefferson National Forest"],
+    "national_parks": ["Shenandoah National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "Washington",
+    "national_forests": [
+      "Colville National Forest",
+      "Gifford Pinchot National Forest",
+      "Mount Baker-Snoqualmie National Forest",
+      "Okanogan-Wenatchee National Forest",
+      "Olympic National Forest"
+    ],
+    "national_parks": [
+      "Mount Rainier National Park",
+      "North Cascades National Park",
+      "Olympic National Park"
+    ],
+    "state_parks": []
+  },
+  {
+    "location": "West Virginia",
+    "national_forests": [
+      "George Washington and Jefferson National Forests",
+      "Monongahela National Forest"
+    ],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "Wisconsin",
+    "national_forests": ["Chequamegon-Nicolet National Forest"],
+    "national_parks": [],
+    "state_parks": []
+  },
+  {
+    "location": "Wyoming",
+    "national_forests": [
+      "Ashley National Forest",
+      "Bighorn National Forest",
+      "Black Hills National Forest",
+      "Bridger-Teton National Forest",
+      "Caribou-Targhee National Forest",
+      "Medicine Bow–Routt National Forest",
+      "Shoshone National Forest",
+      "Uinta-Wasatch-Cache National Forest"
+    ],
+    "national_parks": ["Grand Teton National Park", "Yellowstone National Park"],
+    "state_parks": []
+  },
+  {
+    "location": "American Samoa Territory",
+    "national_forests": [],
+    "national_parks": ["American Samoa National Park"],
+    "state_parks": []
+  },
+
+  {
+    "location": "U.S. Virgin Islands",
+    "national_forests": [],
+    "national_parks": ["Virgin Islands National Park"],
+    "state_parks": []
+  }
+]
